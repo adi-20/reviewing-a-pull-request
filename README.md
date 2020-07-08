@@ -13,6 +13,6 @@ To play the game:
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-Left reviews and line comments
-Created a file and made a commit
-Opened a pull request
+- Left reviews and line comments
+- Created a file and made a commit
+- Opened a pull request
